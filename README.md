@@ -3,16 +3,14 @@
 Welcome to the JS DSA Problem Solutions repository! This repository serves as a collection of JavaScript solutions to various Data Structures and Algorithms (DSA) problems. The solutions provided here are based on problem statements from sources like LeetCode and other relevant platforms.
 
 ## Contents
+     
+## 1. Arrays
+1. [same](./Arrays/same.md)
 
-1. [Problem Solving Patterns](#problemSolvingPatterns)
-    - Frequency Counter
-      
+## 2. Strings
+1. [anagrams](./Strings/anagrams.md)
+2. [merge_strings_alternately](./Strings/merge_strings_alternately.md)
 
-## 1. Problem Solving Patterns {#problemSolvingPatterns}
-
-1. Frequency Counter
-    - [same](./Problem%20Solving%20Patterns/same.md)
-    - [anagrams](./Problem%20Solving%20Patterns/anagrams.md)
 
 ## Disclaimer
 
