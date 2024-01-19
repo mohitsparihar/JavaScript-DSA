@@ -5,12 +5,13 @@ Welcome to the JS DSA Problem Solutions repository! This repository serves as a 
 ## Contents
      
 ## 1. Arrays
-1. [same](./Arrays/same.md)
+1. [Same](./Arrays/same.md)
 
 ## 2. Strings
-1. [anagrams](./Strings/anagrams.md)
-2. [merge_strings_alternately](./Strings/merge_strings_alternately.md)
+1. [Anagrams](./Strings/anagrams.md)
+2. [Merge Strings Alternately](./Strings/merge_strings_alternately.md)
 3. [Greatest Common Divisor of Strings](./Strings/greatest_common_divisor_of_strings.md)
+4. [Kids with the greatest number of candies](./Arrays/kids_with_the_greatest_number_of_candies.md)
 
 
 ## Disclaimer
