@@ -10,6 +10,7 @@ Welcome to the JS DSA Problem Solutions repository! This repository serves as a 
 ## 2. Strings
 1. [anagrams](./Strings/anagrams.md)
 2. [merge_strings_alternately](./Strings/merge_strings_alternately.md)
+3. [Greatest Common Divisor of Strings](./Strings/greatest_common_divisor_of_strings.md)
 
 
 ## Disclaimer
