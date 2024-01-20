@@ -1,3 +1,5 @@
+# Same
+
 ## Problem statement
 
 Write a function called <stong>same</strong>, which accepts two arrays. The function should return true if every value in the array has it's corresponding value squared in the second array. The frequency values must be the same.

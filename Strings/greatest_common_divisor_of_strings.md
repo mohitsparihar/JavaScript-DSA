@@ -1,3 +1,5 @@
+# Greatest common divisor of strings
+
 ## Problem statement
 
 For two strings `s` and `t`, we say `t divides s` if and only if `s = t + ... + t` (i.e., `t` is concatenated with itself one or more times).

@@ -1,4 +1,6 @@
-## Problem statement
+ # Anagrams
+
+ ## Problem statement
 
 Given two strings, write a function to determine if the second string is an anagram of the first. Anagram is a word, phrase, or name formed by rearranging the letters of another, such as cinema, formed iceman.
 
