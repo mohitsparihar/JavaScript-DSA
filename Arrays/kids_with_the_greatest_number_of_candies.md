@@ -29,7 +29,7 @@ Explanation: If you give all extraCandies to:
 - Kid 5, they will have 3 + 3 = 6 candies, which is the greatest among the kids.
 ```
 
-Example 2:
+- Example 2:
 ```js
 Input: candies = [4,2,1,1,2], extraCandies = 1
 Output: [true,false,false,false,false] 

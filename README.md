@@ -8,6 +8,7 @@ Welcome to the JS DSA Problem Solutions repository! This repository serves as a 
 1. [Same](./Arrays/same.md)
 2. [Kids with the greatest number of candies](./Arrays/kids_with_the_greatest_number_of_candies.md)
 3. [Can place flowers](./Arrays/can_place_flowers.md)
+4. [Product of Array Except Itself](./Arrays/product_except_self.md)
 
 ## 2. Strings
 1. [Anagrams](./Strings/anagrams.md)
