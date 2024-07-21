@@ -3,18 +3,22 @@
 Welcome to the JS DSA Problem Solutions repository! This repository serves as a collection of JavaScript solutions to various Data Structures and Algorithms (DSA) problems. The solutions provided here are based on problem statements from sources like LeetCode and other relevant platforms.
 
 ## Contents
+
      
+
 ## 1. Arrays
+
 1. [Same](./Arrays/same.md)
 2. [Kids with the greatest number of candies](./Arrays/kids_with_the_greatest_number_of_candies.md)
 3. [Can place flowers](./Arrays/can_place_flowers.md)
 4. [Product of Array Except Itself](./Arrays/product_except_self.md)
 
 ## 2. Strings
+
 1. [Anagrams](./Strings/anagrams.md)
 2. [Merge Strings Alternately](./Strings/merge_strings_alternately.md)
 3. [Greatest Common Divisor of Strings](./Strings/greatest_common_divisor_of_strings.md)
-
+4. [Reverse Vowels of a String](./Strings/reverse_vowels.md)
 
 ## Disclaimer
 
