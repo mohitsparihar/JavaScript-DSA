@@ -19,6 +19,7 @@ Welcome to the JS DSA Problem Solutions repository! This repository serves as a 
 2. [Merge Strings Alternately](./Strings/merge_strings_alternately.md)
 3. [Greatest Common Divisor of Strings](./Strings/greatest_common_divisor_of_strings.md)
 4. [Reverse Vowels of a String](./Strings/reverse_vowels.md)
+5. [Reverse Words in a String](./Strings/reverse_string.md)
 
 ## Disclaimer
 
